@@ -67,7 +67,14 @@
     "url": "https://reactjs.org/",
     "color": "#61dafb",
     "logoUrl": "logos/react.svg",
-    "numMembers": 2345
+    "numMembers": 2345,
+    "sectionMarkdownUrls": {
+      "welcome": "https://raw.githubusercontent.com/rafd123/docker-communities/main/README.md",
+      "getting-started": "https://raw.githubusercontent.com/rafd123/docker-communities/main/README.md",
+      "resources": "https://raw.githubusercontent.com/rafd123/docker-communities/main/README.md",
+      "faqs": "https://raw.githubusercontent.com/rafd123/docker-communities/main/README.md",
+      "mentor": "https://raw.githubusercontent.com/rafd123/docker-communities/main/README.md"
+    }
   },
   {
     "id": "spring-boot",
