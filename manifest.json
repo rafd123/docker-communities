@@ -1,0 +1,102 @@
+[
+  {
+    "id": "meetup-blacksburg",
+    "title": "Docker Blacksburg",
+    "type": "regional",
+    "description": "Meetup for the Blacksburg, VA and surrounding areas",
+    "url": "https://www.meetup.com/Docker-Blacksburg/",
+    "color": "#319DEC",
+    "logoUrl": "logos/docker-blacksburg.png",
+    "numMembers": 123
+  },
+  {
+    "id": "meetup-raleigh",
+    "title": "Docker Raleigh",
+    "type": "regional",
+    "description": "Meetup for the Raleigh, NC and surrounding areas",
+    "url": "https://www.meetup.com/Docker-Raleigh/",
+    "color": "#319DEC",
+    "logoUrl": "logos/docker-raleigh.jpeg",
+    "numMembers": 1058
+  },
+  {
+    "id": "lamp",
+    "title": "LAMP",
+    "type": "stack",
+    "description": "LAMP Stacks all the way! Linux, Apache, MySQL, PHP",
+    "url": null,
+    "color": "#8892BF",
+    "logoUrl": "logos/lamp.svg",
+    "numMembers": 890
+  },
+  {
+    "id": "laravel",
+    "title": "Laravel",
+    "type": "stack",
+    "description": "Laravel - The PHP framework for Web Artisans",
+    "url": "https://laravel.com/",
+    "color": "rgb(249, 50, 44)",
+    "logoUrl": "logos/laravel.svg",
+    "numMembers": 789
+  },
+  {
+    "id": "nextjs",
+    "title": "Next.js",
+    "type": "stack",
+    "description": "The React Framework for Production",
+    "url": "https://nextjs.org/",
+    "color": "#000",
+    "logoUrl": "logos/nextjs.svg",
+    "numMembers": 456
+  },
+  {
+    "id": "nodejs",
+    "title": "Node.js",
+    "type": "stack",
+    "description": "Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine",
+    "url": "https://nodejs.org/",
+    "color": "#336633",
+    "logoUrl": "logos/nodejs.svg",
+    "numMembers": 1234
+  },
+  {
+    "id": "react",
+    "title": "React",
+    "type": "stack",
+    "description": "A JavaScript library for building user interfaces",
+    "url": "https://reactjs.org/",
+    "color": "#61dafb",
+    "logoUrl": "logos/react.svg",
+    "numMembers": 2345
+  },
+  {
+    "id": "spring-boot",
+    "title": "Spring Boot",
+    "type": "stack",
+    "description": "Spring makes programming Java quicker, easier, and safer for everybody",
+    "url": "https://spring.io/projects/spring-boot",
+    "color": "#6DB33F",
+    "logoUrl": "logos/spring.svg",
+    "numMembers": 678
+  },
+  {
+    "id": "tensorflow",
+    "title": "Tensorflow",
+    "type": "stack",
+    "description": "TensorFlow is an end-to-end open source platform for machine learning",
+    "url": "https://tensorflow.org/",
+    "color": "#FF6F00",
+    "logoUrl": "logos/tensorflow.svg",
+    "numMembers": 234
+  },
+  {
+    "id": "vuejs",
+    "title": "Vue.js",
+    "type": "stack",
+    "description": "An approachable, performant and versatile framework for building web user interfaces",
+    "url": "https://vuejs.org/",
+    "color": "#42b883",
+    "logoUrl": "logos/vue.svg",
+    "numMembers": 1234
+  }
+]
